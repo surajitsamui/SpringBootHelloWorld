@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringBootHelloWorldApplication",
+            "request": "launch",
+            "mainClass": "com.javainuse.SpringBootHelloWorldApplication",
+            "projectName": "SpringBootHelloWorld"
+        }
+    ]
+}
